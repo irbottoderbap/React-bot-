@@ -14,9 +14,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 const CONFIG = {
   // Add specific user IDs that the bot should react to
   ALLOWED_USERS: [
-    'user_id_1',
-    'user_id_2', 
-    'user_id_3'
+    '61583068839776',
+    '61582476391968', 
+    '61582528535722'
     // Add your specific user IDs here
   ],
   
